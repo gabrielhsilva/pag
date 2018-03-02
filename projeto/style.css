@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0; 
+    background-image: url("img/fotoFundo.jpg");
+    background-repeat: no-repeat;
+}
+
+header{
+        
+        /* background-repeat: no-repeat;
+        background-size: 100% auto; */
+}
+
+.botao1{ 
+    height: 100px;
+    font-size: 50px;
+    margin: 20px;
+    border: none;
+    background-color:transparent;
+    color: black;
+    margin-left: 432px; 
+    margin-top: 100px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.botao1 button:hover{
+    color: red;
+}
+
+.botao2{
+    height: 100px;
+    font-size: 50px;
+    margin: 20px;
+    border: none;
+    background-color:transparent;
+    color: black;
+    margin-left: 269px; 
+    margin-top: 100px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.botao2 button:hover{
+    color: red;
+}
+
+/* .fundo{
+    width: 100%;
+    background-size: cover;
+
+} */
+
+.teste{
+    
+}
